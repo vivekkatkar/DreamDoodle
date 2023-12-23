@@ -1,0 +1,3 @@
+lucid react
+shadcn ui
+next js
