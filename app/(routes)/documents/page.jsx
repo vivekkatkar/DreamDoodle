@@ -3,7 +3,6 @@ const documents = () => {
     return ( 
         <>
            <SideNavigation />
-           ``
         </>
      );
 }
