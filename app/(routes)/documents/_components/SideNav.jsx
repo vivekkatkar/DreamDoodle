@@ -10,6 +10,9 @@ const SideNavigation = () => {
                 <div className="w-36 h-14 bg-black text-white rounded-xl text-center flex items-center justify-center cursor-pointer">Study Time</div>
             </section>
             {/* heatmap */}
+            <section>
+                
+            </section>
         </>
     );
 }
