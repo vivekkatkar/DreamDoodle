@@ -1,7 +1,11 @@
 const Journal = () => {
-    return ( <>
-        Journal
-    </> );
+    return (
+        <>
+            <div>
+                Journal
+            </div>
+        </>
+     );
 }
  
 export default Journal;
